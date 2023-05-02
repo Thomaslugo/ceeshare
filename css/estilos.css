@@ -13,7 +13,7 @@ body{
 }
 
 .hero{
-    background-image: linear-gradient(120deg, rgba(241, 147, 251, 0.699) 0%, rgba(85, 27, 35, 0.692) 100%), url("../img/header.jpg");
+    background-image:url("../imagen/wave.jpg");
     width: 100%;
     height: 650px;
     background-repeat: no-repeat;
@@ -110,7 +110,7 @@ body{
 .cta{
     display: inline-block;
     text-decoration: none;
-    background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+    background-image: linear-gradient(45deg, #312d2d 0%, #797979 99%, #a8a8a8 100%);
     padding: 12px 15px;
     border-radius: 8px;
     color: #fff;
@@ -119,7 +119,7 @@ body{
 /* Info */
 
 .info{
-    background: #f5576c;
+    background: #57e3f5;
     color: #fff;
 }
 
@@ -150,7 +150,7 @@ body{
 
 .card i{
     margin: 30px 0 20px 0;
-    color: #cc9199;
+    color: #b7ebff;
     font-size: 50px;
 }
 
@@ -163,7 +163,7 @@ body{
 /* galeria */
 
 .galeria{
-    background: #f2f2f2;
+    background: #90eeff;
 }
 
 .galeria-cont{
@@ -179,7 +179,7 @@ body{
     object-fit: cover;
     margin-bottom: 20px;
     display: block;
-    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, .5);
+    box-shadow: 0px 0px 3px 0px rgba(172, 249, 255, 0.562);
     cursor: pointer;
     overflow: hidden;
 }
@@ -205,7 +205,7 @@ body{
 /* footer */
 
 footer{
-    background: #f5576c;
+    background: #b3dffc;
     color: #fff;
 }
 
@@ -249,7 +249,7 @@ input[type="submit"]{
 
 input[type="submit"]:hover{
     cursor: pointer;
-    color: tomato;
+    color: rgb(182, 253, 250);
     background: #fff;
 }
 
